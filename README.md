@@ -86,7 +86,7 @@
 
 | الملف | الوصف |
 |-------|-------|
-| [Username_Generator_Pro.exe](https://github.com/ps91andr/UsernameGenerator/releases/tag/v1.0.0) | النسخة الكاملة (عربي/إنجليزي) - ملف واحد لا يحتاج تثبيت |
+| [Username_Generator_Pro.exe](https://github.com/ps91andr/UsernameGeneratorAR_EN/releases/tag/UsernameGeneratorAR_EN) | النسخة الكاملة (عربي/إنجليزي) - ملف واحد لا يحتاج تثبيت |
 
 
 > 💡 **ملاحظة:** البرنامج يعمل كملف محمول (Portable). تأكد من وجود ملفات الأيقونات والخطوط في مجلد `fonts` و `icons` إذا كنت تشغل الكود المصدري، أما نسخة EXE فهي تحتوي على كل شيء.
@@ -189,7 +189,7 @@
 
 | File | Description |
 |------|-------------|
-| [Username_Generator_Pro.exe](https://github.com/ps91andr/UsernameGenerator/releases/tag/v1.0.0) | Multi-language version - Portable EXE |
+| [Username_Generator_Pro.exe](https://github.com/ps91andr/UsernameGeneratorAR_EN/releases/tag/UsernameGeneratorAR_EN) | Multi-language version - Portable EXE |
 
 
 > 💡 **Note:** The application is portable. Ensure that assets like `fonts/` and `icons/` are present if running from source. The EXE version is self-contained.
